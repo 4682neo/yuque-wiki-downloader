@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         语雀知识库批量下载（Markdown + 本地化图片）
-// @namespace    https://7998888.xyz
-// @version      1.2
+// @namespace    https://github.com/4682neo
+// @version      1.0.0
 // @description  批量导出语雀知识库文档为 Markdown，图片本地化（去水印下载），三态勾选目录树，打包 zip 下载
 // @author       代可行
 // @match        https://www.yuque.com/*
@@ -15,6 +15,8 @@
 // @require      https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js
 // @run-at       document-idle
 // @license      MIT
+// @homepage     https://github.com/4682neo/yuque-wiki-downloader
+// @source       https://github.com/4682neo/yuque-wiki-downloader
 // ==/UserScript==
 
 (function () {
