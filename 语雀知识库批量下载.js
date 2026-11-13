@@ -5,6 +5,7 @@
 // @description  批量导出语雀知识库文档为 Markdown，图片本地化（去水印下载），三态勾选目录树，打包 zip 下载
 // @author       代可行
 // @match        https://www.yuque.com/*
+// @icon         https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*vMxOQIh4KBMAAAAAAAAAAAAADvuFAQ/original
 // @grant        GM_addStyle
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
